@@ -1,1 +1,2 @@
-Recipes project for The Odin Project course
+Korean inspired recipes project for The Odin Project course.
+Includes japchae, jajangmyeon, and dueji kimchi jjigae.
