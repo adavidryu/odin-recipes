@@ -1,12 +1,18 @@
 body {
   font-family: Helvetica, Arial, sans-serif;
-  background-color: #fdf7ed;
+  background-color: #f2e9e4;
+
 }
 
-.title {
-  color: #231f20;
+h1 {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #9a8c98;
+  color: #f2e9e4;
 }
 
 .links {
-  color: #7bb792
+  color: #9a8c98
 }
